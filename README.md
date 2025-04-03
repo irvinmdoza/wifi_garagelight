@@ -1,1 +1,1 @@
-# Wifi Garage Ligth
+# Wifi Garage Light
